@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/0.Pattern &amp; CheckNum/Number Pattern/Number Pattern.iml" filepath="$PROJECT_DIR$/0.Pattern &amp; CheckNum/Number Pattern/Number Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Programming.iml" filepath="$PROJECT_DIR$/.idea/Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0.Pattern &amp; CheckNum/Symbol Pattern/Symbol Pattern.iml" filepath="$PROJECT_DIR$/0.Pattern &amp; CheckNum/Symbol Pattern/Symbol Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0.Pattern &amp; CheckNum/Symbol Pattern/Triangle Pattern/Triangle Pattern.iml" filepath="$PROJECT_DIR$/0.Pattern &amp; CheckNum/Symbol Pattern/Triangle Pattern/Triangle Pattern.iml" />
+    </modules>
+  </component>
+</project>
