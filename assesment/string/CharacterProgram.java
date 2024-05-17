@@ -13,7 +13,7 @@ import java.util.*;
  * 7. Write a program to convert first character of given string in uppercase and remaining in lowercase.
  * 8. Write a program to find minimum occurrence of character.
  * 9. Write a program to find maximum occurrence of character.
- * 10. Write a program to count occurrence of each characte.
+ * 10. Write a program to count occurrence of each character.
  * 11. Write a program to Remove duplicate character.
  * 12. Write a program to find Missing Character
  * 13. Write a program to Find index number of given character in specified string.

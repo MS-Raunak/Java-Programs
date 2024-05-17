@@ -2,7 +2,7 @@ package DataStructure.StringProgram;
 
 public class CharFrequency {
     public static void main(String[] args) {
-        String s = "  Java is mava hai";
+        String s = "  Java is mava";
 
         String[]strings = split(s.trim());
         //System.out.println(Arrays.toString(strings));
