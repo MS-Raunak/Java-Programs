@@ -3,7 +3,12 @@ package DataStructure.StringProgram;
 import java.util.LinkedHashSet;
 import java.util.Set;
 
-public class P19_LongestSubString {
+/**
+ * Find starting sub string without repeating character
+ * EX:Ramayana
+ * OP: Ram
+ */
+public class P19_FirstSubString {
     public static void main(String[] args) {
         String s = "Ramayana";
 
@@ -21,10 +26,9 @@ public class P19_LongestSubString {
            }
         }
 
+        //Printing result
         for (Object ch : set.toArray())
             res.append(ch);
-
-
 
         System.out.println(res);
     }
